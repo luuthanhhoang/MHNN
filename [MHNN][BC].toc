@@ -1,0 +1,37 @@
+\contentsline {chapter}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u v\IeC {\`\ecircumflex } h\IeC {\d o}c t\IeC {\u a}ng c\IeC {\uhorn }\IeC {\`\ohorn }ng}{4}
+\contentsline {chapter}{\numberline {2}Ph\IeC {\uhorn }\IeC {\ohorn }ng ph\IeC {\'a}p}{6}
+\contentsline {section}{\numberline {2.1}Nh\IeC {\'\abreve }c l\IeC {\d a}i v\IeC {\`\ecircumflex } qu\IeC {\'a} tr\IeC {\`\i }nh Markov}{6}
+\contentsline {subsection}{\numberline {2.1.1}X\IeC {\'\i }ch Markov}{6}
+\contentsline {subsection}{\numberline {2.1.2}Qu\IeC {\'a} tr\IeC {\`\i }nh Markov}{6}
+\contentsline {section}{\numberline {2.2}Qu\IeC {\'a} tr\IeC {\`\i }nh quy\IeC {\'\ecircumflex }t \IeC {\dj }\IeC {\d i}nh Markov (MDP)}{7}
+\contentsline {subsection}{\numberline {2.2.1}Qu\IeC {\'a} tr\IeC {\`\i }nh quy\IeC {\'\ecircumflex }t \IeC {\dj }\IeC {\d i}nh Markov l\IeC {\`a} g\IeC {\`\i }?}{7}
+\contentsline {subsection}{\numberline {2.2.2}B\IeC {\`a}i to\IeC {\'a}n quy\IeC {\'\ecircumflex }t \IeC {\dj }\IeC {\d i}nh Markov}{9}
+\contentsline {subsubsection}{a. B\IeC {\`a}i to\IeC {\'a}n}{9}
+\contentsline {subsubsection}{b. C\IeC {\'a}c ph\IeC {\`\acircumflex }n t\IeC {\h \uhorn } c\IeC {\h u}a b\IeC {\`a}i to\IeC {\'a}n quy\IeC {\'\ecircumflex }t \IeC {\dj }\IeC {\d i}nh Markov}{10}
+\contentsline {subsection}{\numberline {2.2.3}Ph\IeC {\uhorn }\IeC {\ohorn }ng tr\IeC {\`\i }nh t\IeC {\'\ocircumflex }i \IeC {\uhorn }u Bellman cho b\IeC {\`a}i to\IeC {\'a}n MDP}{13}
+\contentsline {section}{\numberline {2.3}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n Q-Learning}{14}
+\contentsline {subsection}{\numberline {2.3.1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{14}
+\contentsline {subsection}{\numberline {2.3.2}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n Q-Learning}{15}
+\contentsline {subsection}{\numberline {2.3.3}S\IeC {\d \uhorn } h\IeC {\d \ocircumflex }i t\IeC {\d u} c\IeC {\h u}a thu\IeC {\d \acircumflex }t to\IeC {\'a}n Q-Learning}{16}
+\contentsline {section}{\numberline {2.4}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n Deep Q-Learning}{17}
+\contentsline {subsection}{\numberline {2.4.1}H\IeC {\`a}m m\IeC {\'\acircumflex }t m\IeC {\'a}t}{18}
+\contentsline {subsection}{\numberline {2.4.2}Kinh nghi\IeC {\d \ecircumflex }m ch\IeC {\ohorn }i l\IeC {\d a}i (Experience replay)}{18}
+\contentsline {subsection}{\numberline {2.4.3}M\IeC {\^o} h\IeC {\`\i }nh}{18}
+\contentsline {chapter}{\numberline {3}\IeC {\'\UHORN }ng d\IeC {\d u}ng trong th\IeC {\d \uhorn }c t\IeC {\'\ecircumflex }}{20}
+\contentsline {section}{\numberline {3.1}M\IeC {\d \ocircumflex }t s\IeC {\'\ocircumflex } \IeC {\'\uhorn }ng d\IeC {\d u}ng th\IeC {\d \uhorn }c t\IeC {\'\ecircumflex }}{20}
+\contentsline {section}{\numberline {3.2}B\IeC {\`a}i to\IeC {\'a}n chi\IeC {\'\ecircumflex }c Taxi th\IeC {\^o}ng minh}{21}
+\contentsline {subsection}{\numberline {3.2.1}B\IeC {\`a}i to\IeC {\'a}n}{21}
+\contentsline {subsection}{\numberline {3.2.2}M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\'o}a b\IeC {\`a}i to\IeC {\'a}n}{21}
+\contentsline {subsubsection}{Ph\IeC {\`\acircumflex }n th\IeC {\uhorn }\IeC {\h \ohorn }ng}{22}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian tr\IeC {\d a}ng th\IeC {\'a}i}{22}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian h\IeC {\`a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng}{23}
+\contentsline {subsection}{\numberline {3.2.3}Gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t b\IeC {\`a}i to\IeC {\'a}n}{24}
+\contentsline {subsection}{\numberline {3.2.4}K\IeC {\'\ecircumflex }t qu\IeC {\h a}}{24}
+\contentsline {section}{\numberline {3.3}B\IeC {\`a}i to\IeC {\'a}n c\IeC {\^a}n b\IeC {\`\abreve }ng con l\IeC {\'\abreve }c ng\IeC {\uhorn }\IeC {\d \ohorn }c}{24}
+\contentsline {subsection}{\numberline {3.3.1}B\IeC {\`a}i to\IeC {\'a}n}{24}
+\contentsline {subsection}{\numberline {3.3.2}M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\'o}a b\IeC {\`a}i to\IeC {\'a}n}{24}
+\contentsline {subsubsection}{Ph\IeC {\`\acircumflex }n th\IeC {\uhorn }\IeC {\h \ohorn }ng}{24}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian tr\IeC {\d a}ng th\IeC {\'a}i}{25}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian h\IeC {\`a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng}{25}
+\contentsline {subsection}{\numberline {3.3.3}Gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t b\IeC {\`a}i to\IeC {\'a}n}{25}
+\contentsline {chapter}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n v\IeC {\`a} b\IeC {\`a}n lu\IeC {\d \acircumflex }n}{27}
