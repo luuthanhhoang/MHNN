@@ -8,6 +8,7 @@
 \usepackage{fancybox}
 \usepackage{boxedminipage}
 
+
 \usepackage[framemethod=TikZ]{mdframed}
 \newcounter{dinhnghia}[section] \setcounter{dinhnghia}{0}
 \renewcommand{\thedinhnghia}{\arabic{section}.\arabic{dinhnghia}}
@@ -563,9 +564,30 @@ của bài toán sẽ được mô phỏng nhờ vào sự trợ giúp của th�
 \\\\Chiếc taxi sẽ được huấn luyện trong 100000 \textit{episode} thông qua việc tương tác với môi
 trường. Một vài kết quả trong quá trình huấn luyện được minh họa như trong Hình 3.3, 3.4
 và 3.5.
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.6]{9}
+	\caption{Số bước chuyển chiếc taxi thực hiện tại mỗi episode.}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.6]{10}
+	\caption{Số lần chiếc taxi đón/trả khách sai vị trí tại mỗi episode.}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.6]{11}
+	\caption{Số phần thưởng chiếc taxi nhận được tại mỗi episode.}
+\end{figure}
 \subsection{Kết quả}
-Kết quả chạy của bài toán với 1000 \textit{episode} sau quá trình huấn luyện được minh họa như
-trong Hình 3.6\\\\Có thể thấy chiếc taxi đã được huấn luyện khá tốt, không mắc bất cứ sai lầm nào trong
+Kết quả chạy của bài toán với 1000 \textit{episodes} sau quá trình huấn luyện được minh họa như
+trong Hình 3.6
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.5]{12}
+	\caption{Kết quả chạy với 1000 episodes.}
+\end{figure}
+\\Có thể thấy chiếc taxi đã được huấn luyện khá tốt, không mắc bất cứ sai lầm nào trong
 việc đón/trả khách và thực hiện việc chọn đường đi khá "thông minh".
 \section{Bài toán cân bằng con lắc ngược}
 \subsection{Bài toán}
@@ -581,6 +603,11 @@ thúc khi:
 	khung nhìn),
 	\item Hoặc số bước vượt quá 200.
 \end{itemize}
+\begin{figure}
+	\centering
+	\includegraphics[scale=.6]{8}
+	\caption{Minh họa bài toán cân bằng con lắc ngược}
+\end{figure}
 \subsection{Mô hình hóa bài toán}
 \subsubsection{Phần thưởng}
 Hệ chuyển động sẽ nhận được phần thưởng +1 sau mỗi bước (bao gồm cả bước kết thúc).
@@ -610,21 +637,35 @@ Miền giá trị của các thành phần này được minh họa như trong b
 \end{center}
 \subsubsection{Không gian hành động}
 Có tổng cộng 2 hành động để di chuyển con lắc, đó là đẩy xe sang trái và sang phải.
-\begin{figure}
-	\centering
-	\includegraphics[scale=.6]{8}
-	\caption{Minh họa bài toán cân bằng con lắc ngược}
-\end{figure}
 \subsection{Giải quyết bài toán}
 Với số trạng thái quá lớn, việc sử dụng giải thuật Q-Learning như trong bài toán "Chiếc
 taxi thông minh" trước đó trở nên bất khả thi về không gian lưu trữ. Việc sử dụng một mạng
 nơ-ron nhân tạo (\textit{Artificial Neural Network}) thay thế cho bảng Q-Table có vẻ phù hợp hơn
-rất nhiều. \\\\ 
-Hệ xe đẩy con lắc sẽ được huấn luyện trong 50000 \textit{episode} thông qua việc tương tác với
-môi trường. Một vài kết quả trong quá trình huấn luyện được minh họa như trong hình 3.8
-và 3.9\\\\
-Dựa vào các biểu đồ, ta có thể thấy hệ dễ dàng đạt được số điểm tối đa, 200 điểm, sau
-khoảng 10000 \textit{episode}.
+rất nhiều. 
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.6]{15}
+	\caption{Mô phỏng lược đồ sử dụng mạng Noron nhân tạo}
+\end{figure}
+
+\noindent Hệ xe đẩy con lắc sẽ được huấn luyện trong 60000 \textit{episodes} thông qua việc tương tác với
+môi trường. Một vài kết quả trong quá trình huấn luyện được minh họa như trong hình 3.9, 3.10 và 3.11
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.3]{16}
+	\caption{Tập phần thưởng khi  huấn luyện trong 60000 episodes.}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.75]{17}
+	\caption{Số phần thưởng trung bình hệ nhận được qua các episode.}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=.75]{18}
+	\caption{Kết quả khởi chạy.}
+\end{figure}
+
 \chapter{Kết luận và bàn luận}
 Trong báo cáo này, nhóm thực hiện đã trình bày sơ lược về quá trình Markov, khái niệm và định nghĩa cơ bản của học tăng cường, các phương pháp liên quan đến quá trình quyết
 định Markov, bài toán quyết định Markov và giải thuật Q-Learning.\\\\ Nhóm thực hiện đã đưa ra một số ứng dụng trong thực tế của học tăng cường và lựa chọn hai bài toán cơ bản là Chiếc

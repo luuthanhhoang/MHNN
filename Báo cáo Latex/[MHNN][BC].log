@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.5.10)  10 JUL 2020 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.5.10)  12 JUL 2020 23:51
 entering extended mode
 **./[MHNN][BC].tex
 ([MHNN][BC].tex
@@ -1117,23 +1117,26 @@ LaTeX Warning: Label `latex' multiply defined.
 
 LaTeX Warning: Label `latex' multiply defined.
 
+
+LaTeX Warning: Label `latex' multiply defined.
+
 )
 \openout1 = `[MHNN][BC].aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
 df.mkii"
@@ -1204,57 +1207,57 @@ G,.JBIG2,.JB2,.eps]
 <bk.png, id=4, 225.84375pt x 336.50719pt>
 File: bk.png Graphic file (type png)
 <use bk.png>
-Package pdftex.def Info: bk.png  used on input line 86.
+Package pdftex.def Info: bk.png  used on input line 87.
 (pdftex.def)             Requested size: 112.92159pt x 168.25317pt.
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 99.
-LaTeX Font Info:    Try loading font information for U+msa on input line 99.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 100.
+LaTeX Font Info:    Try loading font information for U+msa on input line 100.
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 99.
+LaTeX Font Info:    Try loading font information for U+msb on input line 100.
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {C:/Users/hoang/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bk.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 114--129
+Underfull \hbox (badness 10000) in paragraph at lines 115--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--129
+Underfull \hbox (badness 10000) in paragraph at lines 115--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--129
+Underfull \hbox (badness 10000) in paragraph at lines 115--130
 
  []
 
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 130.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 131.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 130.
+(Font)              size <12> substituted on input line 131.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 130.
+(Font)              size <6> substituted on input line 131.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 130.
+(Font)              size <12> substituted on input line 131.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 130.
+(Font)              size <6> substituted on input line 131.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 130.
+(Font)              size <12> substituted on input line 131.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 130.
+(Font)              size <6> substituted on input line 131.
 
 [2
 
@@ -1267,41 +1270,41 @@ LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
 ]
 Ch\uhorn \ohorn ng 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 142.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 143.
 
 ("C:\Users\hoang\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <13> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 142.
+(Font)              size <12> substituted on input line 143.
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 146--155
+Underfull \hbox (badness 10000) in paragraph at lines 147--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--155
+Underfull \hbox (badness 10000) in paragraph at lines 147--156
 
  []
 
@@ -1316,7 +1319,7 @@ Ch\uhorn \ohorn ng 2.
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
@@ -1324,17 +1327,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--193
 <1.png, id=41, 602.25pt x 481.8pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 205.
+Package pdftex.def Info: 1.png  used on input line 206.
 (pdftex.def)             Requested size: 301.12425pt x 240.8994pt.
  [8 <./1.png (PNG copy)>]
-Package mdframed Info: Not enough space on this page on input line 219.
+Package mdframed Info: Not enough space on this page on input line 220.
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--236
+Underfull \hbox (badness 10000) in paragraph at lines 226--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--236
+Underfull \hbox (badness 10000) in paragraph at lines 226--237
 
  []
 
@@ -1342,32 +1345,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--236
 <2.png, id=49, 492.33937pt x 227.34938pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 245.
+Package pdftex.def Info: 2.png  used on input line 246.
 (pdftex.def)             Requested size: 246.16907pt x 113.67441pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--255
+Underfull \hbox (badness 10000) in paragraph at lines 243--256
 
  []
 
 [10 <./2.png>] [11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 316--320
+Underfull \hbox (badness 10000) in paragraph at lines 317--321
 
  []
 
 [13]
-Package mdframed Info: Not enough space on this page on input line 337.
+Package mdframed Info: Not enough space on this page on input line 338.
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 363--375
+Underfull \hbox (badness 10000) in paragraph at lines 364--376
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--375
+Underfull \hbox (badness 10000) in paragraph at lines 364--376
 
  []
 
@@ -1375,24 +1378,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--375
 <3.png, id=70, 1003.75pt x 1019.81pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 406.
+Package pdftex.def Info: 3.png  used on input line 407.
 (pdftex.def)             Requested size: 301.12732pt x 305.94536pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16]
-Package mdframed Info: Not enough space on this page on input line 422.
+Package mdframed Info: Not enough space on this page on input line 423.
 <4.png, id=74, 683.55376pt x 251.94125pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 432.
+Package pdftex.def Info: 4.png  used on input line 433.
 (pdftex.def)             Requested size: 410.13542pt x 151.16591pt.
  [17 <./3.png (PNG copy)>]
 <6.png, id=78, 402.303pt x 190.91325pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 451.
+Package pdftex.def Info: 6.png  used on input line 452.
 (pdftex.def)             Requested size: 402.302pt x 190.91278pt.
 
 
@@ -1403,7 +1406,7 @@ Ch\uhorn \ohorn ng 3.
 <5.png, id=89, 509.905pt x 501.875pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 487.
+Package pdftex.def Info: 5.png  used on input line 488.
 (pdftex.def)             Requested size: 254.95187pt x 250.93687pt.
 [20
 
@@ -1411,72 +1414,113 @@ Package pdftex.def Info: 5.png  used on input line 487.
 <7.png, id=97, 502.87875pt x 496.85625pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
-Package pdftex.def Info: 7.png  used on input line 528.
+Package pdftex.def Info: 7.png  used on input line 529.
 (pdftex.def)             Requested size: 251.43875pt x 248.4275pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--532
+Underfull \hbox (badness 10000) in paragraph at lines 522--533
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 560--566
+<9.png, id=101, 523.9575pt x 335.75438pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 569.
+(pdftex.def)             Requested size: 314.37692pt x 201.45418pt.
+<10.png, id=102, 500.62032pt x 332.74312pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 574.
+(pdftex.def)             Requested size: 300.37451pt x 199.6474pt.
+<11.png, id=103, 526.96875pt x 326.72063pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 579.
+(pdftex.def)             Requested size: 316.18369pt x 196.03387pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--582
 
  []
 
 [23 <./7.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 567--570
 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24]
-<8.png, id=109, 507.8975pt x 352.31625pt>
+<12.png, id=108, 730.22812pt x 134.00063pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 587.
+(pdftex.def)             Requested size: 365.11316pt x 67.00014pt.
+[24 <./9.png> <./10.png>] [25 <./11.png> <./12.png>]
+<8.png, id=121, 507.8975pt x 352.31625pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
-Package pdftex.def Info: 8.png  used on input line 615.
+Package pdftex.def Info: 8.png  used on input line 608.
 (pdftex.def)             Requested size: 304.74086pt x 211.39137pt.
+ [26 <./8.png>]
+<15.png, id=126, 505.13719pt x 236.38312pt>
+File: 15.png Graphic file (type png)
+<use 15.png>
+Package pdftex.def Info: 15.png  used on input line 647.
+(pdftex.def)             Requested size: 303.08466pt x 141.83096pt.
+<16.png, id=127, 1281.78876pt x 645.41125pt>
+File: 16.png Graphic file (type png)
+<use 16.png>
+Package pdftex.def Info: 16.png  used on input line 655.
+(pdftex.def)             Requested size: 384.5396pt x 193.62486pt.
+<17.png, id=128, 505.12926pt x 243.43579pt>
+File: 17.png Graphic file (type png)
+<use 17.png>
+Package pdftex.def Info: 17.png  used on input line 660.
+(pdftex.def)             Requested size: 378.84601pt x 182.57639pt.
+<18.png, id=129, 505.12926pt x 77.59515pt>
+File: 18.png Graphic file (type png)
+<use 18.png>
+Package pdftex.def Info: 18.png  used on input line 665.
+(pdftex.def)             Requested size: 378.84601pt x 58.19621pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--628
 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--628
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- []
 
-[25 <./8.png>] [26]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <./15.png>] [28 <./16.png> <./17.png> <./18.png>]
 Ch\uhorn \ohorn ng 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 629--635
+Underfull \hbox (badness 10000) in paragraph at lines 670--676
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 629--635
+Underfull \hbox (badness 10000) in paragraph at lines 670--676
 
  []
 
-[27
+[29
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 643--644
+Underfull \hbox (badness 10000) in paragraph at lines 684--685
 []\T5/cmr/m/n/13 https://viblo.asia/p/gioi-thieu-ve-hoc-tang-cuong-va-ung-dung-
 deep-q-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--646
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
 []\T5/cmr/m/n/13 https://towardsdatascience.com/reinforcement-learning-lets-tea
 ch-a-taxi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
 []\T5/cmr/m/n/13 https://www.theconstructsim.com/testing-different-openai-rl-al
 gorithms-
  []
 
-[28
+[30
 
 ] ([MHNN][BC].aux)
 
@@ -1488,10 +1532,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27262 strings out of 492970
- 536035 string characters out of 3126594
+ 27302 strings out of 492970
+ 536422 string characters out of 3126594
  579514 words of memory out of 3000000
- 30759 multiletter control sequences out of 15000+200000
+ 30791 multiletter control sequences out of 15000+200000
  558117 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,15n,76p,1336b,980s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1514,9 +1558,9 @@ hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr9.pfb><C:/User
 s/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnsl12.pfb><C:/
 Users/hoang/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti12.pfb>
 
-Output written on [MHNN][BC].pdf (28 pages, 704344 bytes).
+Output written on [MHNN][BC].pdf (30 pages, 994883 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
+ 196 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

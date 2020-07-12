@@ -26,12 +26,12 @@
 \contentsline {subsubsection}{Kh\IeC {\^o}ng gian tr\IeC {\d a}ng th\IeC {\'a}i}{22}
 \contentsline {subsubsection}{Kh\IeC {\^o}ng gian h\IeC {\`a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng}{23}
 \contentsline {subsection}{\numberline {3.2.3}Gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t b\IeC {\`a}i to\IeC {\'a}n}{24}
-\contentsline {subsection}{\numberline {3.2.4}K\IeC {\'\ecircumflex }t qu\IeC {\h a}}{24}
-\contentsline {section}{\numberline {3.3}B\IeC {\`a}i to\IeC {\'a}n c\IeC {\^a}n b\IeC {\`\abreve }ng con l\IeC {\'\abreve }c ng\IeC {\uhorn }\IeC {\d \ohorn }c}{24}
-\contentsline {subsection}{\numberline {3.3.1}B\IeC {\`a}i to\IeC {\'a}n}{24}
-\contentsline {subsection}{\numberline {3.3.2}M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\'o}a b\IeC {\`a}i to\IeC {\'a}n}{24}
-\contentsline {subsubsection}{Ph\IeC {\`\acircumflex }n th\IeC {\uhorn }\IeC {\h \ohorn }ng}{24}
-\contentsline {subsubsection}{Kh\IeC {\^o}ng gian tr\IeC {\d a}ng th\IeC {\'a}i}{25}
-\contentsline {subsubsection}{Kh\IeC {\^o}ng gian h\IeC {\`a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng}{25}
-\contentsline {subsection}{\numberline {3.3.3}Gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t b\IeC {\`a}i to\IeC {\'a}n}{25}
-\contentsline {chapter}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n v\IeC {\`a} b\IeC {\`a}n lu\IeC {\d \acircumflex }n}{27}
+\contentsline {subsection}{\numberline {3.2.4}K\IeC {\'\ecircumflex }t qu\IeC {\h a}}{25}
+\contentsline {section}{\numberline {3.3}B\IeC {\`a}i to\IeC {\'a}n c\IeC {\^a}n b\IeC {\`\abreve }ng con l\IeC {\'\abreve }c ng\IeC {\uhorn }\IeC {\d \ohorn }c}{25}
+\contentsline {subsection}{\numberline {3.3.1}B\IeC {\`a}i to\IeC {\'a}n}{25}
+\contentsline {subsection}{\numberline {3.3.2}M\IeC {\^o} h\IeC {\`\i }nh h\IeC {\'o}a b\IeC {\`a}i to\IeC {\'a}n}{26}
+\contentsline {subsubsection}{Ph\IeC {\`\acircumflex }n th\IeC {\uhorn }\IeC {\h \ohorn }ng}{26}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian tr\IeC {\d a}ng th\IeC {\'a}i}{26}
+\contentsline {subsubsection}{Kh\IeC {\^o}ng gian h\IeC {\`a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng}{27}
+\contentsline {subsection}{\numberline {3.3.3}Gi\IeC {\h a}i quy\IeC {\'\ecircumflex }t b\IeC {\`a}i to\IeC {\'a}n}{27}
+\contentsline {chapter}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n v\IeC {\`a} b\IeC {\`a}n lu\IeC {\d \acircumflex }n}{29}
